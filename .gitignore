@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+
+# Angular
+dist/
+.angular/cache/
+.idea/
+.vscode/
